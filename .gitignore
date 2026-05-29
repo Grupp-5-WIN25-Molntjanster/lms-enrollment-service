@@ -14,6 +14,27 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Visual Studio publish/deployment files
+**/Properties/serviceDependencies.json
+**/Properties/serviceDependencies.*.json
+**/Properties/PublishProfiles/
+**/*.pubxml
+**/*.pubxml.user
+
+# Migrations (ignored per team decision)
+**/Migrations/
+
+# launchSettings (ignored per team decision)
+**/Properties/launchSettings.json
+# Local dev config & secrets
+appsettings.Development.json
+
+# Azure Connected Services / publish artifacts
+**/Properties/ServiceDependencies/
+
+# Developer-specific
+# **/Properties/launchSettings.json
+
 # Mono auto generated files
 mono_crash.*
 
