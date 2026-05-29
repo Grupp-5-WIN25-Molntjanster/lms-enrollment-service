@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="Lms.EnrollmentService.IntegrationTests/Lms.EnrollmentService.IntegrationTests.csproj" Id="feb3cd49-b755-4cf2-98cf-2550bab59dbf" />
+    <Project Path="Lms.EnrollmentService.UnitTests/Lms.EnrollmentService.UnitTests.csproj" Id="e7c5a34e-1ded-4ee6-a326-a41f7df3d53e" />
+  </Folder>
+  <Project Path="Lms.EnrollmentService.Api/Lms.EnrollmentService.Api.csproj" Id="7c1a7d0d-7101-44d1-bf23-db3653bcdeee" />
+  <Project Path="Lms.EnrollmentService.Application/Lms.EnrollmentService.Application.csproj" Id="d3d3f61b-e88d-44bd-915d-79a6ae8d9a5d" />
+  <Project Path="Lms.EnrollmentService.Domain/Lms.EnrollmentService.Domain.csproj" />
+  <Project Path="Lms.EnrollmentService.Infrastructure/Lms.EnrollmentService.Infrastructure.csproj" Id="c815fc12-fc81-4d44-95e5-240d5d4d2ec1" />
+</Solution>
